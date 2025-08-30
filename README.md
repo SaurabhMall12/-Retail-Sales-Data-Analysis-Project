@@ -1,4 +1,4 @@
-# -Retail-Sales-Data-Analysis-Project
+# Retail-Sales-Data-Analysis-Project
 
 Utilized Databricks to build and manage scalable data pipelines.
 
